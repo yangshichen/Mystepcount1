@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jibuqi</string>
+    <string name="AT">0</string>
+    <string name="onAccuracyChanged">onAccuracyChanged未触发</string>
+    <string name="Button_Write">Write</string>
+    <string name="Button_Stop">Stop</string>
+</resources>
